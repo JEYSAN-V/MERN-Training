@@ -69,3 +69,10 @@ body {
   background-color: hsl(40, 100%, 70%);
 }
 
+#equal{
+  background-color: hsl(25, 100%, 50%);
+  color: white;
+}
+#equal:hover{
+  background-color: hsl(25, 100%, 60%);
+}
